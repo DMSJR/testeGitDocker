@@ -2,7 +2,7 @@ name: Publicando minha imagem automaticamente
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     
 jobs:
   CI:
